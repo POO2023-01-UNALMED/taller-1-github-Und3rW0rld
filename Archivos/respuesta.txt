@@ -1,0 +1,1 @@
+No me permitio realizar un commit con el cambio de añadir la carpeta archivos, esto debido a que las carpetas vacias no son concideradas cambios.
