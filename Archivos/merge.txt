@@ -1,3 +1,6 @@
 SANTIAGO ACEVEDO CACUA
 EDAD 18
 ME GUSTARIA COMPRENDER A PROFUNDIDAD EL FUNCIONAMIENTO DEL PARADIGMA DE PROGRAMACION ORIENTADA A OBJETOS PARA ASI POSTERIORMENTE ASPIRAR A UN PUESTO DE TRABAJO COMO DESARROLLADOR JAVA
+Creamos el archivo respuesta.txt y lo metimos dentro de la carpeta archivos. Esto fue lo que nos permitio realmente realizar el commit con la nueva carpeta y posteriormente el push
+
+Es importante tener cuidado con los cambios realizados para asi evitar futuros errores e incompatibilidades
