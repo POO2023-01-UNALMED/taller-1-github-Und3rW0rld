@@ -1,0 +1,1 @@
+Creamos el archivo respuesta.txt y lo metimos dentro de la carpeta archivos. Esto fue lo que nos permitio realmente realizar el commit con la nueva carpeta y posteriormente el push
